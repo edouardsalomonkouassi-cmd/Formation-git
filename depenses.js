@@ -19,3 +19,5 @@ console.log(`Rapport de dépenses à compléter pour ${nom}.`);
 console.log(`Total des dépenses : ${total} FCFA.`);
 console.log(`Budget restant : ${budgetRestant} FCFA.`);
 console.log(`Budget respecté : ${budgetRespected ? 'Oui' : 'Non'}.`);
+
+//git push
