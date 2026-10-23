@@ -21,3 +21,4 @@ console.log(`Budget restant : ${budgetRestant} FCFA.`);
 console.log(`Budget respecté : ${budgetRespected ? 'Oui' : 'Non'}.`);
 
 //git push
+// je suis salomon
